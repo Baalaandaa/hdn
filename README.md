@@ -1,3 +1,4 @@
+
 # Hash Delivery Network
 HSE Rust course project
 ## What it does?
