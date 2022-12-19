@@ -51,3 +51,8 @@ Show docs:
 ```shell
 cargo doc --open
 ```
+
+Run tests:
+```shell
+cargo test
+```
